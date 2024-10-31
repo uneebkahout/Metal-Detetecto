@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wheather_app/pages/homePage.dart';
 import 'package:wheather_app/pages/loading.dart';
-import 'package:wheather_app/pages/location_page.dart';
 
 void main() => runApp(MyApp());
 
